@@ -31,3 +31,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sohagmollik&show_icons=true&locale=en" alt="sohagmollik" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sohagmollik&" alt="sohagmollik" /></p>
+http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={SohagMollik}&theme={theme_name}
