@@ -28,5 +28,6 @@
 
 <p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SohagMollik" alt="sohagmollik" /></p>
 <p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SohagMollik&theme=github_dark" alt="sohagmollik" /></p>
+<p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SohagMollik&theme=github_dark" alt="sohagmollik" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sohagmollik&" alt="sohagmollik" /></p>
 
