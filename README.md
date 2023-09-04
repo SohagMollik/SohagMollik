@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sohag.cse.just@gmail.com**
 
-- 📄 Know about my experiences <a href="[https://drive.google.com/file/d/1frQG6X47uzY3XeEKpOTtHO9REvNaKY9v/view?usp=sharing](https://drive.google.com/file/d/1frQG6X47uzY3XeEKpOTtHO9REvNaKY9v/view?usp=sharing)">Resume</a>
+- 📄 Know about my experiences:  <a href="https://drive.google.com/file/d/1isyF8J9tfQ-O08mstJr3f7CjOckxElWq/view?usp=sharing">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
