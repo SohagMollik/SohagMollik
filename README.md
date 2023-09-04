@@ -28,7 +28,7 @@
 
 <p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SohagMollik" alt="sohagmollik" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/" alt="sohagmollik" /></p>
+<p>&nbsp;<img align="center" src="[https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/](http://github-profile-summary-cards.vercel.app/api/cards/stats?username={SohagMollik}&theme={Midnight})" alt="sohagmollik" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sohagmollik&" alt="sohagmollik" /></p>
 
