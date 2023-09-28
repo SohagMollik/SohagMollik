@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sohag Mollik</h1>
-<h3 text-align="justify">A computer science student graduating is ongoing. I am a competitive programmer who enjoys solving algorithmic and data structure problems, passionate about competitive programming, and enjoying new challenges. I am an enthusiastic learner and hardworking person looking forward to developing my career in the Software industry.</h3>
+<h3 style="color:black; text-align:justify" >A computer science student graduating is ongoing. I am a competitive programmer who enjoys solving algorithmic and data structure problems, passionate about competitive programming, and enjoying new challenges. I am an enthusiastic learner and hardworking person looking forward to developing my career in the Software industry.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohagmollik&label=Profile%20views&color=0e75b6&style=flat" alt="sohagmollik" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sohag.cse.just@gmail.com**
 
-- 📄 Know about my details:  <a href="https://drive.google.com/file/d/1YQsAN1V-kx4qfeV4obfgv9074pGG7mPl/view?usp=sharing" target="_blank">Resume</a>
+- 📄 Know about my details:  <a href="https://drive.google.com/file/d/1mV7l3saWdVQHjhic2hHW91P43bWCCoD0/view?usp=sharing" target="_blank">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
