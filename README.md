@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sohag.cse.just@gmail.com**
 
-- 📄 Know about my details:  <a href="https://drive.google.com/file/d/1MJqZ_ypLLWYlrnS3FyK9Mnrr4ArZFGao/view?usp=sharing" target="_blank" rel="noopener noreferrer">cv_sohag</a>
+- 📄 Know about my details:  <a href="https://drive.google.com/file/d/1qIAxyrAECTmCDaGw2bCO_6Y_bIR4DS5q/view?usp=sharing" target="_blank" rel="noopener noreferrer">sohag_cv</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
