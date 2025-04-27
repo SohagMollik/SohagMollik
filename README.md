@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sohag Mollik</h1>
-<h3 style="color:black; text-align:justify; text-decoration: none" >A computer science student graduating is ongoing. I am a competitive programmer who enjoys solving algorithmic and data structure problems, passionate about competitive programming, and enjoying new challenges. I am an enthusiastic learner and hardworking person looking forward to developing my career in the Software industry as a software engineer.</h3>
+<h3 style="color:black; text-align:justify; text-decoration: none" >Graduated in CSE and Lecturer in CSE. Love competitive programming, who enjoys solving algorithmic and data structure problems, is passionate about research and competitive programming, and enjoys new challenges. I am an enthusiastic learner and hardworking person looking forward to the MS/PhD Position.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohagmollik&label=Profile%20views&color=0e75b6&style=flat" alt="sohagmollik" /> </p>
 
-- 🌱 I’m currently learning **algorithms and data structures and trying to be a backend developer.**
+- 🌱 I’m currently learning **More knowledge on Research, as well as algorithms, data structures & problem solving.**
 
-- 👯 I am enthusiastically seeking **a software engineering position within the expansive realm of computer science.**
+- 👯 I am enthusiastically seeking **MS/PhD position within the expansive realm of computer science.**
 
-- 💬 Ask me about **competitive programming**
+- 💬 Ask me about **Research & competitive programming**
 
 - 📫 How to reach me **sohag.cse.just@gmail.com**
 
